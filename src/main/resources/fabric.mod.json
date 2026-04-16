@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/ChilitoChilin/slime-mold-dimension"
 	},
 	"license": "MIT",
 	"icon": "assets/slime-mold-dimension/icon.png",
