@@ -39,7 +39,7 @@ public class BlueBerryBushBlock extends SweetBerryBushBlock {
             world.emitGameEvent(GameEvent.BLOCK_CHANGE, pos, GameEvent.Emitter.of(player, blockState));
             return ActionResult.success(world.isClient);
         } else {
-            return super.onUse(state, world, pos, player, hit);
+            return ActionResult.PASS;
         }
     }
 }

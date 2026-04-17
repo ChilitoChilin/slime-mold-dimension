@@ -1,6 +1,7 @@
 package net.chilin.slimemold.block;
 
 import net.chilin.slimemold.SlimeMoldDimension;
+import net.chilin.slimemold.block.custom.BlueBerryBushBlock;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
@@ -74,7 +75,7 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.copy(Blocks.MOSS_BLOCK)));
 
     public static final  Block BLUE_BERRY_BUSH = registerBlock("blue_berry_bush",
-            new SweetBerryBushBlock(AbstractBlock.Settings.copy(Blocks.SWEET_BERRY_BUSH)));
+            new BlueBerryBushBlock(AbstractBlock.Settings.copy(Blocks.SWEET_BERRY_BUSH)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
