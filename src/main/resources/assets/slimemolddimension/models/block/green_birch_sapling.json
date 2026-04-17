@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "slimemolddimension:block/green_birch_sapling"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "slimemolddimension:yellow_birch_wood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "slimemolddimension:yellow_birch_planks"
+  }
+}

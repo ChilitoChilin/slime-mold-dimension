@@ -1,0 +1,37 @@
+{
+  "item.slimemolddimension.crab_apple": "Crab Apple",
+  "item.slimemolddimension.blue_berry": "Bluen Berry",
+
+  "block.slimemolddimension.red_test_block": "Red Block",
+  "block.slimemolddimension.blue_test_block": "Blue Block",
+
+  "block.slimemolddimension.green_birch_log": "Green Birch Log",
+  "block.slimemolddimension.green_birch_wood": "Green Birch Wood",
+  "block.slimemolddimension.stripped_green_birch_log": "Stripped Green Birch Log",
+  "block.slimemolddimension.stripped_green_birch_wood": "Stripped Green Birch Wood",
+  "block.slimemolddimension.green_birch_planks": "Green Birch Planks",
+  "block.slimemolddimension.green_birch_leaves": "Green Birch Leaves",
+  "block.slimemolddimension.green_birch_sapling": "Green Birch Sapling",
+
+  "block.slimemolddimension.red_birch_log": "Red Birch Log",
+  "block.slimemolddimension.red_birch_wood": "Red Birch Wood",
+  "block.slimemolddimension.stripped_red_birch_log": "Stripped Red Birch Log",
+  "block.slimemolddimension.stripped_red_birch_wood": "Stripped Red Birch Wood",
+  "block.slimemolddimension.red_birch_planks": "Red Birch Planks",
+  "block.slimemolddimension.red_birch_leaves": "Red Birch Leaves",
+
+  "block.slimemolddimension.yellow_birch_log": "Yellow Birch Log",
+  "block.slimemolddimension.yellow_birch_wood": "Yellow Birch Wood",
+  "block.slimemolddimension.stripped_yellow_birch_log": "Stripped Yellow Birch Log",
+  "block.slimemolddimension.stripped_yellow_birch_wood": "Stripped Yellow Birch Wood",
+  "block.slimemolddimension.yellow_birch_planks": "Yellow Birch Planks",
+  "block.slimemolddimension.yellow_birch_leaves": "Yellow Birch Leaves",
+
+  "block.slimemolddimension.verdant_moss": "Verdant Moss",
+
+
+
+
+  "itemgroup.slimemold.test_items": "Test Items",
+  "itemgroup.slimemold.test_blocks": "Test Blocks"
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "slime-mold-dimension:block/red_test_block"
-  }
-}

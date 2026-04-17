@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "slimemolddimension:block/stripped_red_birch_log",
+    "end": "slimemolddimension:block/stripped_red_birch_log"
+  }
+}

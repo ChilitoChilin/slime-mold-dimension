@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "slimemolddimension:block/green_birch_leaves"
+  }
+}

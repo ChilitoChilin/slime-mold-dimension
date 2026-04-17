@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "slimemolddimension:block/green_birch_log"
+    },
+    "axis=z": {
+      "model": "slimemolddimension:block/green_birch_log", "x": 90
+    },
+    "axis=x": {
+      "model": "slimemolddimension:block/green_birch_log", "x": 90, "y": 90
+    }
+  }
+}

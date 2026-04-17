@@ -12,7 +12,7 @@
 		"sources": "https://github.com/ChilitoChilin/slime-mold-dimension"
 	},
 	"license": "MIT",
-	"icon": "assets/slime-mold-dimension/icon.png",
+	"icon": "assets/slimemolddimension/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"slime-mold-dimension.mixins.json"
+		"slimemolddimension.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",

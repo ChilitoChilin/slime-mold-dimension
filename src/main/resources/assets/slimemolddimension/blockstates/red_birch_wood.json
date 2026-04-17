@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "slimemolddimension:block/red_birch_wood"
+    },
+    "axis=z": {
+      "model": "slimemolddimension:block/red_birch_wood", "x": 90
+    },
+    "axis=x": {
+      "model": "slimemolddimension:block/red_birch_wood", "x": 90, "y": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "slimemolddimension:block/verdant_moss"
+  }
+}

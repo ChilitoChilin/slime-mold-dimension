@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "slimemolddimension:green_birch_log",
+    "slimemolddimension:stripped_green_birch_log",
+    "slimemolddimension:green_birch_wood",
+    "slimemolddimension:stripped_green_birch_wood",
+    "slimemolddimension:red_birch_log",
+    "slimemolddimension:stripped_red_birch_log",
+    "slimemolddimension:red_birch_wood",
+    "slimemolddimension:stripped_red_birch_wood",
+    "slimemolddimension:yellow_birch_log",
+    "slimemolddimension:stripped_yellow_birch_log",
+    "slimemolddimension:yellow_birch_wood",
+    "slimemolddimension:stripped_yellow_birch_wood",
+    "slimemolddimension:green_birch_planks",
+    "slimemolddimension:red_birch_planks",
+    "slimemolddimension:yellow_birch_planks"
+  ]
+}
